@@ -5,3 +5,4 @@
 #支持指定架构
 --platform=linux/amd64 adguard/adguardhome
 --platform=linux/amd64 hsuyelin/nas-tools:3.4.1
+--platform=linux/amd64 stashapp/stash:v0.27.2
